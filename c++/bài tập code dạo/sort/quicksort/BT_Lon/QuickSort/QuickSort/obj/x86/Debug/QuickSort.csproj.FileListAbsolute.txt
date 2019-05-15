@@ -1,0 +1,21 @@
+F:\Home work\TKDGTT\BT_Lon\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+F:\Home work\TKDGTT\BT_Lon\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+F:\Home work\TKDGTT\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.Properties.Resources.resources
+F:\Home work\TKDGTT\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.csproj.GenerateResource.Cache
+F:\Home work\TKDGTT\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.exe
+F:\Home work\TKDGTT\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.pdb
+F:\Home work\TKDGTT\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.Sort.resources
+F:\Home work\TKDGTT\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.Help.resources
+F:\Home work\TKDGTT\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.About.resources
+F:\Home work\TKDGTT\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.csprojResolveAssemblyReference.cache
+D:\c++\2\BT_Lon\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+D:\c++\2\BT_Lon\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+D:\c++\2\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.csprojAssemblyReference.cache
+D:\c++\2\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.About.resources
+D:\c++\2\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.Help.resources
+D:\c++\2\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.Sort.resources
+D:\c++\2\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.Properties.Resources.resources
+D:\c++\2\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.csproj.GenerateResource.cache
+D:\c++\2\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.csproj.CoreCompileInputs.cache
+D:\c++\2\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.exe
+D:\c++\2\BT_Lon\QuickSort\QuickSort\obj\x86\Debug\QuickSort.pdb
